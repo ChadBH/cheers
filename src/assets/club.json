@@ -1,0 +1,16 @@
+{
+  "name": "Speaking Frankly",
+  "address": "The Ruritan Club, 5709 Tyner Ln, Harrison, TN 37341",
+  "mapUrl": "https://goo.gl/maps/RaWtYCqEqdrUiQdA8",
+  "blurbs": [
+    "Small, laid back group",
+    "Visit and watch",
+    "We won't make you speak!"
+  ],
+  "fthSubdomain": "speakingfrankly",
+  "meetings": [
+    {
+      "date": "2019-08-26T22:30:00.000Z"
+    }
+  ]
+}
