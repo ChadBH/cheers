@@ -1,7 +1,8 @@
 import { TestBed, async } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
 import { AppComponent } from './app.component';
-import { Club, Meeting } from './club';
+import { Club} from './club';
+import {NavComponent} from './nav/nav.component';
 
 import ClubJson from '../assets/club.json';
 
@@ -15,7 +16,7 @@ describe('AppComponent', () => {
         RouterTestingModule
       ],
       declarations: [
-        AppComponent
+        AppComponent, NavComponent
       ],
     }).compileComponents();
   }));
